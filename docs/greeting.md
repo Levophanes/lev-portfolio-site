@@ -8,4 +8,6 @@ Welcome to the amazing website!
 
 Many years of hard work, dedication, and more dedication led to this moment.
 
-# This is a heading
+# This is an image 
+
+![JRobs](https://cdn.discordapp.com/attachments/1013982859297558598/1136604099845042196/IMG_1423.jpg)
