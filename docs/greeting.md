@@ -16,6 +16,6 @@ Here are some of my previous projects:
 
 2023 - I made a rudimentary stock analysis tool while teaching myself about the basics of Java API
 
-# This is an image 
+# Below is an image of my super basic code for my 2021 whitelist project
 
-![JRobs](https://cdn.discordapp.com/attachments/1013982859297558598/1136604099845042196/IMG_1423.jpg)
+![JRobs](https://cdn.discordapp.com/attachments/871870426169610332/1156431107328319508/Screen_Shot_2023-09-26_at_8.24.18_PM.png?ex=6514f1e5&is=6513a065&hm=015fd6b3ab1715b203fa1d589c38023cbf6b5f47a6b61eba7e686dd26ac127a9&)
