@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # First Design Thinking Reflection -- Rowing Rush Problems and Solutions
 
-1: Needfinding
+# 1: Needfinding
 
 Needfinding was not a difficult process; it is human nature to be annoyed. But for this step, I made the mistake of listing my immediate problems. I should have thought deeper and addressed issues that I could actually solve. For example, I cannot fix Milken's slow Wi-Fi or the "rent-a-cop" at Merman that produces traffic. This step was fun, especially drawing my very precise diagrams, but I need to spend more time on my thinking process for future endeavors. 
 
@@ -12,7 +12,7 @@ Needfinding was not a difficult process; it is human nature to be annoyed. But f
 
 ![Imone](https://cdn.discordapp.com/attachments/871870426169610332/1159983407279919134/IMG_4633.jpg?ex=653301bb&is=65208cbb&hm=fd3a4acf884170ce59f27005b161ecee7b28e8b536fa21158b17f8a398744f23&)
 
-2: Defining
+# 2: Defining
 
 Defining, or turning my bugs into thoughtful "how might we..." questions, was the step where I should have went back to the needfinding process. I should have realized that my goals were too big or unable to be fixed through direct innovation. In the future, if faced with the same problem, I need to recognize my work as being a lost cost, one I can learn from, and go back to the drawing board.
 
@@ -32,7 +32,7 @@ I loved this process. It was a lot of fun to make wacky ideas for myself and oth
 
 ![Imfour](https://cdn.discordapp.com/attachments/871870426169610332/1159984459949555712/IMG_4624.png?ex=653302b6&is=65208db6&hm=3508892222a89d5251033e821ba64e8cd60fd03299f2c3dc949dc3e45048a297&)
 
-4: Prototyping
+# 4: Prototyping
 
 I had a lot of issues prototyping my project as I did not know how to appraoch it. During this process, I almost switched to two different problems (ones that I did not even discuss in class) because I could not fix the Wi-Fi and did not know how to tackle a social issue. In the future, I need to go back to the drawing board when I see the recognize I will have an issue instead of trying to power through it. I ultimately made a very rough concept to fix the rush problem: a neck brace to force you to look foward and watch the person in front of you, but of course, this will not work in reality as it is extremely demeaning, unsafe, and a horrible idea to fix this problem. 
 
