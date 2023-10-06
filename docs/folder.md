@@ -34,9 +34,9 @@ I loved this process. It was a lot of fun to make wacky ideas for myself and oth
 
 # 4: Prototyping
 
-I had a lot of issues prototyping my project as I did not know how to approach it. During this process, I almost switched to two different problems (ones that I did not even discuss in class) because I could not fix the Wi-Fi and did not know how to tackle a social issue. In the future, I need to go back to the drawing board when I see the recognize I will have an issue instead of trying to power through it. I ultimately made a very rough concept to fix the rush problem: a neck brace to force you to look foward and watch the person in front of you, but of course, this will not work in reality as it is extremely demeaning, unsafe, and a horrible idea to fix this problem. But this process was a good learning experience that will help me in the future. 
+I had a lot of issues prototyping my project as I did not know how to approach it. During this process, I almost switched to two different problems (ones that I did not even discuss in class) because I could not fix the Wi-Fi and did not know how to tackle a social issue. In the future, I need to go back to the drawing board when I recognize an issue instead of trying to power through it. I ultimately made a very rough concept to fix the rush problem: a neck brace to force you to look foward and watch the person in front of you, but of course, this will not work in reality as it is extremely demeaning, unsafe, and a horrible idea to fix this problem. But this process was a good learning experience that will help me in the future. 
 
-I cannot show this prototype in action because it is a very miniture and will not work. But, the thought process was that a brace for the neck would force you to look forward and watch the person in front of you to fix timing. Please see the image below for what it should have looked like: 
+I cannot show this prototype in action because it is a very miniture and will not work. But, please see the image below for what it should have looked like: 
 
 # Prototype to fix rowing rush:
 
