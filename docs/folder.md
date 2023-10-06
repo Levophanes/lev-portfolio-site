@@ -22,7 +22,7 @@ Defining, or turning my bugs into thoughtful "how might we..." questions, was th
 
 3: Ideating
 
-I loved this process. It was a lot of fun to make wacky ideas for myself and others. But, like I wrote in the step above, my goals were already too lofty and unattainable. The ideating process was just the last hammer in the nail proving that I could not solve my problem with my resources because they were either: (1) a social problem, like rowing rush; (2) or our of my budget, like Milken's slow Wi-Fi.
+I loved this process. It was a lot of fun to make wacky ideas for myself and others. But, like I wrote in the step above, my goals were already too lofty and unattainable. The ideating process was just the last hammer in the nail proving that I could not solve my problem with my resources because they were either: (1) a social problem, like rowing rush; (2) out of my budget, like Milken's slow Wi-Fi.
 
 # Ideating for rowing rush
 
@@ -34,7 +34,7 @@ I loved this process. It was a lot of fun to make wacky ideas for myself and oth
 
 # 4: Prototyping
 
-I had a lot of issues prototyping my project as I did not know how to appraoch it. During this process, I almost switched to two different problems (ones that I did not even discuss in class) because I could not fix the Wi-Fi and did not know how to tackle a social issue. In the future, I need to go back to the drawing board when I see the recognize I will have an issue instead of trying to power through it. I ultimately made a very rough concept to fix the rush problem: a neck brace to force you to look foward and watch the person in front of you, but of course, this will not work in reality as it is extremely demeaning, unsafe, and a horrible idea to fix this problem. 
+I had a lot of issues prototyping my project as I did not know how to approach it. During this process, I almost switched to two different problems (ones that I did not even discuss in class) because I could not fix the Wi-Fi and did not know how to tackle a social issue. In the future, I need to go back to the drawing board when I see the recognize I will have an issue instead of trying to power through it. I ultimately made a very rough concept to fix the rush problem: a neck brace to force you to look foward and watch the person in front of you, but of course, this will not work in reality as it is extremely demeaning, unsafe, and a horrible idea to fix this problem. But this process was a good learning experience that will help me in the future. 
 
 # Prototype to fix rowing rush:
 
