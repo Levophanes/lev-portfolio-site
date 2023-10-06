@@ -20,7 +20,7 @@ Defining, or turning my bugs into thoughtful "how might we..." questions, was th
 
 ![Imtwo](https://cdn.discordapp.com/attachments/871870426169610332/1159983193773056030/Screen_Shot_2023-10-06_at_3.38.59_PM.png?ex=65330188&is=65208c88&hm=69142cb41f28cbb2c39e87348b2edfdffe142b4359eaeed4bd56695d8e957cc9&)
 
-3: Ideating
+# 3: Ideating
 
 I loved this process. It was a lot of fun to make wacky ideas for myself and others. But, like I wrote in the step above, my goals were already too lofty and unattainable. The ideating process was just the last hammer in the nail proving that I could not solve my problem with my resources because they were either: (1) a social problem, like rowing rush; (2) out of my budget, like Milken's slow Wi-Fi.
 
