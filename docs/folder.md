@@ -10,7 +10,7 @@ Needfinding was not a difficult process; it is human nature to be annoyed. But f
 
 # Problems I found:
 
-![Imone](https://discord.com/channels/869728015372922900/871870426169610332/1159983407816777758)
+![Imone](https://cdn.discordapp.com/attachments/871870426169610332/1159983407279919134/IMG_4633.jpg?ex=653301bb&is=65208cbb&hm=fd3a4acf884170ce59f27005b161ecee7b28e8b536fa21158b17f8a398744f23&)
 
 2: Defining
 
@@ -18,7 +18,7 @@ Defining, or turning my bugs into thoughtful "how might we..." questions, was th
 
 # Defining the "how might we..." questions
 
-![Imtwo](https://discord.com/channels/869728015372922900/871870426169610332/1159983194213462126)
+![Imtwo](https://cdn.discordapp.com/attachments/871870426169610332/1159983193773056030/Screen_Shot_2023-10-06_at_3.38.59_PM.png?ex=65330188&is=65208c88&hm=69142cb41f28cbb2c39e87348b2edfdffe142b4359eaeed4bd56695d8e957cc9&)
 
 3: Ideating
 
@@ -26,11 +26,11 @@ I loved this process. It was a lot of fun to make wacky ideas for myself and oth
 
 # Ideating for rowing rush
 
-![Imthree](https://discord.com/channels/869728015372922900/871870426169610332/1159984481281781823)
+![Imthree](https://cdn.discordapp.com/attachments/871870426169610332/1159984481072074772/IMG_4623.png?ex=653302bb&is=65208dbb&hm=f1aca672a2c39b42e5b5b3aeca411d9702730377e5385fc68d91821d498e00b5&)
 
 # Ideating for Milken's slow Wi-Fi
 
-![Imfour](https://discord.com/channels/869728015372922900/871870426169610332/1159984460192821248)
+![Imfour](https://cdn.discordapp.com/attachments/871870426169610332/1159984459949555712/IMG_4624.png?ex=653302b6&is=65208db6&hm=3508892222a89d5251033e821ba64e8cd60fd03299f2c3dc949dc3e45048a297&)
 
 4: Prototyping
 
@@ -38,4 +38,4 @@ I had a lot of issues prototyping my project as I did not know how to appraoch i
 
 # Prototype to fix rowing rush:
 
-![Imfive](https://discord.com/channels/869728015372922900/871870426169610332/1159983771441959002)
+![Imfive](https://cdn.discordapp.com/attachments/871870426169610332/1159983770938646570/IMG_4634.jpg?ex=65330212&is=65208d12&hm=1e6d51a4aa99bb2278f609bde8d156b6e71aa82eabc1336b5ae3a5b0d396d85e&2)
