@@ -10,7 +10,7 @@ Needfinding was not a difficult process; it is human nature to be annoyed. But f
 
 # Problems I found:
 
-![JRobs](https://discord.com/channels/869728015372922900/871870426169610332/1159983407816777758)
+![Imone](https://discord.com/channels/869728015372922900/871870426169610332/1159983407816777758)
 
 2: Defining
 
@@ -18,7 +18,7 @@ Defining, or turning my bugs into thoughtful "how might we..." questions, was th
 
 # Defining the "how might we..." questions
 
-![JRobs](https://discord.com/channels/869728015372922900/871870426169610332/1159983194213462126)
+![Imtwo](https://discord.com/channels/869728015372922900/871870426169610332/1159983194213462126)
 
 3: Ideating
 
@@ -26,11 +26,11 @@ I loved this process. It was a lot of fun to make wacky ideas for myself and oth
 
 # Ideating for rowing rush
 
-![JRobs](https://discord.com/channels/869728015372922900/871870426169610332/1159984481281781823)
+![Imthree](https://discord.com/channels/869728015372922900/871870426169610332/1159984481281781823)
 
 # Ideating for Milken's slow Wi-Fi
 
-![JRobs](https://discord.com/channels/869728015372922900/871870426169610332/1159984460192821248)
+![Imfour](https://discord.com/channels/869728015372922900/871870426169610332/1159984460192821248)
 
 4: Prototyping
 
@@ -38,4 +38,4 @@ I had a lot of issues prototyping my project as I did not know how to appraoch i
 
 # Prototype to fix rowing rush:
 
-![JRobs](https://discord.com/channels/869728015372922900/871870426169610332/1159983771441959002)
+![Imfive](https://discord.com/channels/869728015372922900/871870426169610332/1159983771441959002)
