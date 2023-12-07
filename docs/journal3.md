@@ -21,7 +21,7 @@ It would be game-changing to help her build an efficient medical regimen that ac
 
 # HMWs
 
-![dsds](https://media.discordapp.net/attachments/871870426169610332/1181637112773218426/IMG_5486.jpg?ex=6581c851&is=656f5351&hm=2a60af5b9e29628603e9d95a883d5f1056d251701df20738a9fa9a2ed13333a0&=&format=webp&width=1446&height=1084)
+![dsds](https://media.discordapp.net/attachments/871870426169610332/1182365030105227264/IMG_5501.jpg?ex=65846e3e&is=6571f93e&hm=37dac89eb38eeb2c6a4f35bbd3da1fc2d0bdbc16378c080ab77f16f391bcbf02&=&format=webp&width=2124&height=1084)
 
 
 1) How might we take advantage of cancellations?
