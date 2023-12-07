@@ -25,11 +25,36 @@ It would be game-changing to help her build an efficient medical regimen that ac
 
 Idea: Tell interviewees that they have an appointment for an urgent dentist two weeks from now then give them an app (drawn on paper) that shows certain cancellations for their doctor as now available slots. Redo the test with a premium subscription offer to get the ability to take the now available slots first. 
 
+Assumptions for Experiment 1: 
+
+People cancel doctor's appointments frequently and within 48 hours of their scheduled session.
+
+There is a backlog of patients that want to take canceled time slots.
+
+People know their schedule and can change their appointments. 
+
+
 2) How might we make setting up appointments a positive experience? 
 
 Idea: Use incentives and charm to encourage people to set up appointments. 
 
-3) How might we make scheduling appointments feel like talking to a friend?
+Assumptions for Experiment 2:
 
-Idea: Speak on a first-name basis and try to build a friendly ambiance.
+Positive experiences will lead to more scheduled appointments in the future.
 
+Rewards as an incentive will lead to more scheduling.
+
+Your [the person or app doing the appointment] mood and actions have full control to influence the other person’s final thoughts about the doctor’s appointment. 
+
+
+3) How might we take advantage of cancellations?
+
+Idea: Tell interviewees that they have an appointment for an urgent dentist appointment in two weeks. This is like Experience 1 but without an app or premium option.
+
+Assumptions for Experiment 3:
+
+People know their schedule off the top of their heads.
+
+Seeing a doctor is the utmost highest priority. 
+
+Urgency is a driving factor that will cause people to want to clear their schedule of other events to see a needed doctor.
