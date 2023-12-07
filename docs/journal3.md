@@ -17,9 +17,12 @@ We met Rimona, an American college student at UCLA.
 We were amazed to realize that she only visits a doctor on necessity.
 It would be game-changing to help her build an efficient medical regimen that accommodates her time constraints.
 
-![journal3](https://media.discordapp.net/attachments/871870426169610332/1181637112773218426/IMG_5486.jpg?ex=6581c851&is=656f5351&hm=2a60af5b9e29628603e9d95a883d5f1056d251701df20738a9fa9a2ed13333a0&=&format=webp&width=1446&height=1084)
+![journal4](https://media.discordapp.net/attachments/871870426169610332/1182363687516917850/IMG_5486.jpg?ex=65846cfe&is=6571f7fe&hm=97ecbf25043479b3efc27d874926677d6e0c92029a7203082ee96f8ec571eaf5&=&format=webp&width=1446&height=1084)
 
 # HMWs
+
+![journal3](https://media.discordapp.net/attachments/871870426169610332/1181637112773218426/IMG_5486.jpg?ex=6581c851&is=656f5351&hm=2a60af5b9e29628603e9d95a883d5f1056d251701df20738a9fa9a2ed13333a0&=&format=webp&width=1446&height=1084)
+
 
 1) How might we take advantage of cancellations?
 
