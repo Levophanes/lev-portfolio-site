@@ -3,6 +3,7 @@ sidebar_position: 7
 ---
 # Journal 3: POVs and HMWs
 
+
 # POVs
 
 We met Dr. Reyter, a Russian, Jewish dental surgeon living in Los Angeles.
